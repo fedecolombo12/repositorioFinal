@@ -421,7 +421,7 @@ p.centrado {
   footer.page-footer a {
     color: black;
     padding: 10px;
-    padding-left: 140px; } }
+    padding-left: 110px; } }
 
 @media (min-width: 992px) {
   .navbar-expand-lg .navbar-nav .nav-link {

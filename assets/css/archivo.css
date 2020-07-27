@@ -417,8 +417,8 @@ p.centrado {
     font-size: 17px;
     color: black; }
   .telephone h6 {
-    font-size: 22px; }
-  footer.page-footer a {
+    font-size: 9px; }
+  footer.page-footer .boxPayPal a {
     color: black;
     padding: 10px;
     padding-left: 110px; } }
